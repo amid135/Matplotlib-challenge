@@ -7,26 +7,26 @@ Tasks and Objectives
 This assignment is structured around exploring and visualizing the data to provide insights and summary statistics for a technical report. Here are the tasks involved:
 
 1.	Data Preparation:
-  o	Merge and clean data to ensure accuracy and remove any duplicates.
-  o	Check for consistency in mouse data across time points.
+  - Merge and clean data to ensure accuracy and remove any duplicates.
+  - Check for consistency in mouse data across time points.
 2.	Summary Statistics:
-  o	Calculate and present mean, median, variance, standard deviation, and SEM of tumor volume for each drug regimen.
+  - Calculate and present mean, median, variance, standard deviation, and SEM of tumor volume for each drug regimen.
 3.	Bar Charts and Pie Charts:
-  o	Create visual representations of total mouse counts per drug regimen using both Pandas and Matplotlib.
-  o	Display the distribution of female versus male mice using both Pandas and Matplotlib.
+  - Create visual representations of total mouse counts per drug regimen using both Pandas and Matplotlib.
+  - Display the distribution of female versus male mice using both Pandas and Matplotlib.
 4.	Quartiles, Outliers, and Box Plots:
-  o	Identify potential outliers in final tumor volumes across selected treatment regimens (Capomulin, Ramicane, Infubinol, Ceftamin).
-  o	Visualize the distribution of final tumor volumes using box plots, highlighting any outliers.
+  - Identify potential outliers in final tumor volumes across selected treatment regimens (Capomulin, Ramicane, Infubinol, Ceftamin).
+  - Visualize the distribution of final tumor volumes using box plots, highlighting any outliers.
 5.	Line Plot and Scatter Plot:
-  o	Generate a line plot of tumor volume vs. time point for a specific mouse treated with Capomulin.
-  o	Create a scatter plot of mouse weight vs. average tumor volume for the Capomulin regimen, and overlay a linear regression model.
+  - Generate a line plot of tumor volume vs. time point for a specific mouse treated with Capomulin.
+  - Create a scatter plot of mouse weight vs. average tumor volume for the Capomulin regimen, and overlay a linear regression model.
 6.	Correlation and Regression:
-  o	Calculate the correlation coefficient between mouse weight and average tumor volume for the Capomulin regimen.
-  o	Plot a linear regression model on top of the scatter plot to visualize the relationship between mouse weight and tumor volume.
+  - Calculate the correlation coefficient between mouse weight and average tumor volume for the Capomulin regimen.
+  - Plot a linear regression model on top of the scatter plot to visualize the relationship between mouse weight and tumor volume.
 
 Files
-•	Module 5 Challenge files: Provided dataset and dependencies for the analysis.
-•	README.md: This document, providing an overview of the project, instructions, and objectives.
+  - Module 5 Challenge files: Provided dataset and dependencies for the analysis.
+  - README.md: This document, providing an overview of the project, instructions, and objectives.
 
 Getting Started
 
@@ -34,14 +34,14 @@ To replicate or explore this analysis, follow these steps:
 
 1.	Clone the Repository:
 2.	Run the Analysis:
-  o	Use Jupyter Notebook or any Python environment to open and execute the provided scripts.
-  o	Ensure all dependencies are installed (pandas, matplotlib, etc.).
+  - Use Jupyter Notebook or any Python environment to open and execute the provided scripts.
+  - Ensure all dependencies are installed (pandas, matplotlib, etc.).
 3.	Explore the Data:
-  o	Navigate through the Jupyter notebooks to view detailed code and visualizations for each task.
-  o	Modify parameters or data selections as needed to further analyze the dataset.
+  - Navigate through the Jupyter notebooks to view detailed code and visualizations for each task.
+  - Modify parameters or data selections as needed to further analyze the dataset.
 4.	Contribute and Customize:
-  o	Feel free to expand or customize the analysis based on your interests or additional questions.
-  o	Make use of the provided dataset and code structure to explore further insights.
+  - Feel free to expand or customize the analysis based on your interests or additional questions.
+  - Make use of the provided dataset and code structure to explore further insights.
 
 Conclusion
 
